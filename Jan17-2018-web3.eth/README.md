@@ -3,6 +3,8 @@ The goal of this meetup to make more concrete the concepts like public/private k
 that we discussed in the [Blockchain 101](https://docs.google.com/presentation/d/1v8ztCnLDqF_C3PQ_fILWjpn_9gW-CQTYJQfADGm3KX4/edit#slide=id.p) meetup held on Jan 7,2018. We will do this by writing some simple JavaScript code. [Click here](https://docs.google.com/presentation/d/1J7tkLJpuyvmh8ZLlfIiLc20E-7Z6cDLGh94ceEZZPAM/edit#slide=id.p) for the meetup presentation.
 # What we will cover in this meetup
 
+We will cover how to work with the Ethereum blockchain.
+
 1. Generate a public/private keypair using node.js console (web3 apis as needed).
 2. Use web3 to connect to a ethereum testnet like Rinkeby via infura.io with the api keys.
 3. Add some eth to the above generated keypair using [ethereum faucet](https://faucet.rinkeby.io/)
