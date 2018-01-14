@@ -14,7 +14,7 @@ that we discussed in the [Blockchain 101](https://docs.google.com/presentation/d
 
 Use these [instructions](instructions.md) if you want to learn by typing the code yourself. 
 
-# Learn by running Sample scripts
+# Learn by running sample scripts
 
 Use these scripts if you don't want to type code. To get test ethereum [see this](https://github.com/Tri-Valley-Blockchain/meetups/blob/master/Jan17-2018-web3.eth/instructions.md#step-2-get-free-ethereum-to-use-later-in-transactions)
 
