@@ -82,6 +82,7 @@ You can also check via etherscan.io.
 https://rinkeby.etherscan.io/address/<wallet_public_key> 
 and https://rinkeby.etherscan.io/tx/<transaction_addr>
 ```
+Try sending more ETH than what you have and see what happens.
 
 
 
