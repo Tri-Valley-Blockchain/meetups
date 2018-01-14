@@ -21,7 +21,7 @@ const seed="LivermoreWine!".repeat(100)
 const privateKey=web3.sha3(web3.sha3(seed))
 privateKey
 ```
-Exit node. Download [keygen.js](keygen-js) and type the following to generate your crypto public address (a.k.a. public key). 
+Exit node. Download [keygen.js](keygen.js) and type the following to generate your crypto public address (a.k.a. public key). 
 
 ```bash
 node keygen.js <private-key>

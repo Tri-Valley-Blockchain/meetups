@@ -16,7 +16,7 @@ Use these [instructions](instructions.md) if you want to learn by typing the cod
 
 # Learn by running Sample scripts
 
-Use these scripts if you don't want to type code. To get test ethereum [see this](https://gist.github.com/lakamsani/b20fed6c5172c7fee781675a6c61798c#step-2-get-free-ethereum-to-use-later-in-transactions)
+Use these scripts if you don't want to type code. To get test ethereum [see this](https://github.com/Tri-Valley-Blockchain/meetups/blob/master/Jan17-2018-web3.eth/instructions.md#step-2-get-free-ethereum-to-use-later-in-transactions)
 
 ```shell
 
