@@ -12,8 +12,7 @@ that we discussed in the [Blockchain 101](https://docs.google.com/presentation/d
 
 # Learn by writing code
 
-Use this if you want to learn by typing the code yourself. 
-https://gist.github.com/lakamsani/b20fed6c5172c7fee781675a6c61798c
+Use these [instructions](instructions.md) if you want to learn by typing the code yourself. 
 
 # Learn by running Sample scripts
 
