@@ -28,6 +28,8 @@ $ ./check_balance_eth.js --address <your-public-key-address>
 
 Your balance will show as zero , as you don't hold any ether. To get test ethereum [see this](https://github.com/Tri-Valley-Blockchain/meetups/blob/master/Jan17-2018-web3.eth/instructions.md#step-2-get-free-ethereum-to-use-later-in-transactions)
 
+Once you acquire some ethereum, find someone to send this ethereum to by asking for their public address. 
+
 ```shell
 $ ./send_eth.js --key <your-private-key-from-above> --address <your-public-key-from-above> --to <your-friends-public-key>
 
