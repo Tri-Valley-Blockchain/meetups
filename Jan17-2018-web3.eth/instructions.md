@@ -2,6 +2,7 @@ Thanks to [Jordan Leigh](https://github.com/AlwaysBCoding) for his [excellent tu
 
 The instructions below are useful if you want to learn by typing the code. We also have a [set of scripts](https://github.com/trivalley-blockchain/eth-playground/tree/master/meetup1) that can be run that do the same thing. 
 # Pre-Reqs:
+* For Windows users, review [this first](Windows-setup.md)
 * Confirm/install [node.js 8.9.x](https://nodejs.org/en/) using `node --version`
 * Get an API key from infura.io
 
