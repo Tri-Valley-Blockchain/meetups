@@ -8,7 +8,7 @@ that we discussed in the [Blockchain 101](https://docs.google.com/presentation/d
 3. Add some eth to the above generated keypair using [ethereum faucet](https://faucet.rinkeby.io/)
 4. Create a json object on the node.js console for a eth transfer transaction between one meetup participant and the person sitting next to them or anyone else.
 5. Sign it, send it
-6. Use etherscan to confirm it. also use web api on the recepient's node.js console to confirm it.
+6. Use etherscan to confirm it. Also use web3 api in the node.js console to confirm it.
 
 # Learn by writing code
 
