@@ -1,0 +1,1 @@
+This repo holds code and documents used in various development type meetups that are organized as part of the [Tri-Valley Blockchain & Crypto Meetup](https://www.meetup.com/Tri-Valley-Blockchain-Crypto-Meetup/)
