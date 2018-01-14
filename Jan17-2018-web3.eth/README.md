@@ -1,4 +1,4 @@
-## Meetup on Jan 17, 2018 - Hands-on with web3.js
+# Meetup on Jan 17, 2018: Hands-on with web3.js
 The goal of this meetup to make more concrete the concepts like public/private keys and signed transactions 
 that we discussed in the [Blockchain 101](https://docs.google.com/presentation/d/1v8ztCnLDqF_C3PQ_fILWjpn_9gW-CQTYJQfADGm3KX4/edit#slide=id.p) meetup held on Jan 7,2018. We will do this by writing some simple JavaScript code. [Click here](https://docs.google.com/presentation/d/1J7tkLJpuyvmh8ZLlfIiLc20E-7Z6cDLGh94ceEZZPAM/edit#slide=id.p) for the meetup presentation.
 # What we will cover in this meetup
