@@ -34,7 +34,7 @@ See [here](https://github.com/ethereum/wiki/wiki/JavaScript-API) for more info o
 * https://faucet.metamask.io/
 * Tweet: https://twitter.com/lakamsani/status/951513291750191105
 * Ethereum faucet claim: https://www.rinkeby.io/#faucet
-* Check transfer via etherscan.io
+* Check transfer via rinkeby.etherscan.io
 
 Verify eth balance received from faucet.
 ```javascript
